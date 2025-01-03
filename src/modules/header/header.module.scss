@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background-color: #eceae2;
+
+  .container__item {
+    font-size: 20px;
+
+    a, button {
+      color: #2F5F48;
+    }
+  }
+}
